@@ -38,5 +38,6 @@ public class Tugas01 {
       }
       return hasil[n-1];
   }
+  
     
 }
